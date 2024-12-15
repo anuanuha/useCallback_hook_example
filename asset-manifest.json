@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useCallback_hook_example/static/css/main.f855e6bc.css",
+    "main.js": "/useCallback_hook_example/static/js/main.e941d36a.js",
+    "index.html": "/useCallback_hook_example/index.html",
+    "main.f855e6bc.css.map": "/useCallback_hook_example/static/css/main.f855e6bc.css.map",
+    "main.e941d36a.js.map": "/useCallback_hook_example/static/js/main.e941d36a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e941d36a.js"
+  ]
+}
